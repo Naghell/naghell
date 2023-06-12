@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I have a Harry Potter themed Minecraft server  
   
 
-###### ***<div align="center">“If you can’t stand the way this place is take yourself to higher places." Adam Gontier</div>***  
+###### ***<div align="center">“If you can’t stand the way this place is take yourself to higher places." - Adam Gontier</div>***  
   
 
 <br/>  
