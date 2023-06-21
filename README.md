@@ -1,8 +1,9 @@
 ### <div align="center">I'm Naghell, a Full Stack developer from Argentina.</div>  
   
 
-- 🔭 I’m currently working on [PerrAPI](https://github.com/Naghell/PI-Perros)  
+- 🔭 I’m currently working on ?
   
+- ✅ I just finished [PerrAPI](https://pi-perros-rlb.up.railway.app/)
 
 - 🌱 I’m currently learning Tailwind  
   
