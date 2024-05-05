@@ -5,10 +5,10 @@
   
 - ✅ I just finished [PerrAPI](https://pi-perros-rlb.up.railway.app/)
 
-- 🌱 I’m currently learning Tailwind  
+- 🌱 I’m currently learning NestJS
   
 
-- ❓ Ask me about anything related to React  
+- ❓ Ask me about anything related to Next  
   
 
 - ⚡ Fun fact: I have a Harry Potter themed Minecraft server  
